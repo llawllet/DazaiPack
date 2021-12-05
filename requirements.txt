@@ -71,3 +71,6 @@ youtube_dl
 wget
 git+https://github.com/goldsmith/Wikipedia
 youtube-search-python
+instaloader
+hentai
+natsort
