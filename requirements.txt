@@ -67,7 +67,6 @@ urlextract
 validators
 vcsi
 wand
-youtube_dl
 wget
 git+https://github.com/goldsmith/Wikipedia
 youtube-search-python
