@@ -1,1 +1,2 @@
-CMD ["bash", "startup"]
+RUN bash startup
+
