@@ -72,3 +72,4 @@ youtube-search-python
 instaloader
 hentai
 natsort
+python-ffmpeg
