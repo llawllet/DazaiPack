@@ -89,7 +89,7 @@ _set_bot () {
     _run_cat_git
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    apt install ffmpeg
+    sudo apt install ffmpeg
     echo "    Starting UserBot    "
     echo "
     '##::::'##::'######::'########:'########::'########:::'#######::'########:
