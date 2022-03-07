@@ -90,7 +90,6 @@ _set_bot () {
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
     pip install speedtest-cli
-    pip install maigret
     chmod -R 755 /workspace/spotdl-master
     echo "    Starting UserBot    "
     echo "
