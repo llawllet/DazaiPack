@@ -73,3 +73,4 @@ instaloader
 hentai
 natsort
 python-ffmpeg
+pytgcalls==3.0.0.dev21
