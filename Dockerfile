@@ -9,5 +9,5 @@ RUN python3 -m pip install --upgrade pip && \
 
 ENV PATH="/home/ub/bin:$PATH"
 
-#start
+#start it
 CMD ["bash","start"]
