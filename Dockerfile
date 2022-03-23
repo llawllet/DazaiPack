@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:slim-buster
+FROM llawllet/catuserbot:slim-buster
 
 RUN git clone https://github.com/llawllet/DazaiPack.git /root/userbot
 
