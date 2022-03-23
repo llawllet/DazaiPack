@@ -7,6 +7,6 @@ WORKDIR /root/ub
 RUN python3 -m pip install --upgrade pip && \
     python3 -m pip install -r requirements.txt
 
-ENV PATH="/home/userbot/bin:$PATH"
+ENV PATH="/home/ub/bin:$PATH"
 
 CMD ["bash","start"]
