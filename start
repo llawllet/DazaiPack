@@ -41,7 +41,6 @@ _get_repolink () {
     echo "$rlink"
 }
 
-
 _run_python_code() {
     python3${pVer%.*} -c "$1"
 }
