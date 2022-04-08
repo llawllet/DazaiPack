@@ -90,6 +90,7 @@ _set_bot () {
     chmod -R 755 bin
     pip install speedtest-cli
     pip3 install -U pytgcalls==3.0.0.dev21
+    pip install youtube-search-python
     chmod -R 755 /workspace/spotdl-master
     echo "    Starting UserBot    "
     echo "
