@@ -1,0 +1,11 @@
+[[build.buildpacks]]
+uri = "heroku/nodejs"
+
+[[build.buildpacks]]
+uri = "heroku/nodejs-yarn"
+
+[[build.buildpacks]]
+uri = "heroku/ffmpeg"
+
+[[build.buildpacks]]
+uri = "heroku/chromedriver"
