@@ -5,7 +5,7 @@ uri = "heroku/nodejs"
 uri = "heroku/nodejs-yarn"
 
 [[build.buildpacks]]
-uri = "heroku/ffmpeg"
+uri = "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
 
 [[build.buildpacks]]
-uri = "heroku/chromedriver"
+uri = "https://github.com/heroku/heroku-buildpack-chromedriver"
